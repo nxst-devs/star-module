@@ -1,0 +1,16 @@
+{
+  "name": "@nxst/module",
+  "version": "1.0.2",
+  "description": "Data extraction, creation, and utilization tool available for all systems, specifically developed in Node.js",
+  "main": "index.js",
+  "author": "nxst-devs",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nxst-devs/star-module.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nxst-devs/star-module/issues"
+  },
+  "homepage": "https://github.com/nxst-devs/star-module#readme"
+}
