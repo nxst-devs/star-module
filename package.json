@@ -1,16 +1,16 @@
 {
-  "name": "@nxst/module",
-  "version": "1.0.2",
+  "name": "@shiroko/module",
+  "version": "1.0.3",
   "description": "Data extraction, creation, and utilization tool available for all systems, specifically developed in Node.js",
   "main": "index.js",
-  "author": "nxst-devs",
+  "author": "shiroko-devs",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nxst-devs/star-module.git"
+    "url": "git+https://github.com/shiroko-devs/star-module.git"
   },
   "bugs": {
-    "url": "https://github.com/nxst-devs/star-module/issues"
+    "url": "https://github.com/shiroko-devs/star-module/issues"
   },
-  "homepage": "https://github.com/nxst-devs/star-module#readme"
+  "homepage": "https://github.com/shiroko-devs/star-module#readme"
 }
